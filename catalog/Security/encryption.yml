@@ -4,6 +4,7 @@ projects:
   - attr_encrypted
   - crypt_keeper
   - encrypted_strings
+  - enmail
   - jamesotron/Lockbox
   - jmckible/lucifer
   - miscreant
