@@ -1,5 +1,5 @@
 name: Encryption
-description: 
+description:
 projects:
   - attr_encrypted
   - crypt_keeper
